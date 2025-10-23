@@ -41,7 +41,7 @@
 
 🌷 My favourite colour is pink!  
 🍓 My favourite debugging snack: chocolate!  
-💡 I think a clean UI can spark creativity — beauty fuels productivity!  
+💡 I like a clean UI!  
 
 ---
 
