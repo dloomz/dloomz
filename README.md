@@ -2,9 +2,9 @@
 <h1 align="center">Hi there ✨ I'm Dolapo (aka Dloomz) 🌷</h1>
 <h3 align="center">🎬 VFX Artist • 🐍 Python Dev • 💖 Aspiring TD</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJhYjdhNzk2YzlmMWE2M2I3YmE3ZTdmZGUzYjQ4ZjYyZmQ0YzE2OCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="coding animation">
-</p>
+</p> -->
 
 ---
 
@@ -13,7 +13,7 @@
 🌸 I’m a **3D/VFX Artist & Toolmaker**.  
 
 🐍 I love crafting tools that make **Houdini, Maya, and Nuke** workflows smoother for artists.  
-🌈 My goal: make production pipelines **friendly, and efficient**.
+🌈 My goal: make production pipelines **friendly and efficient**.
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### ☕ Fun Little Facts  
 
-🌷 My favourite colour is pink!
+🌷 My favourite colour is pink!  
 🍓 My favourite debugging snack: chocolate!  
 💡 I think a clean UI can spark creativity — beauty fuels productivity!  
 
@@ -48,8 +48,18 @@
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dloomz&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dloomz&theme=rose_pine&hide_border=true" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=dloomz&show_icons=true&hide_border=true&title_color=ff7dd0&icon_color=ff8cc6&text_color=ffb6c1&bg_color=fff5f8" />
+  <img width="48%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=dloomz&hide_border=true&ring=ff7dd0&fire=ff8cc6&currStreakLabel=ff7dd0&sideNums=ff8cc6&sideLabels=ff7dd0&background=fff5f8" />
+</p>
+
+<!-- 💕 PINK WAKATIME + LANGUAGES STATS 💕 -->
+<p align="center">
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dloomz&layout=compact&hide_border=true&title_color=ff7dd0&text_color=ff8cc6&bg_color=fff5f8" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/wakatime?username=dloomz&hide_border=true&title_color=ff7dd0&text_color=ff8cc6&icon_color=ff8cc6&bg_color=fff5f8" />
 </p>
 
 ---
@@ -57,7 +67,9 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dolapo-okuboyejo-066b59222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF8CC6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dolapo-okuboyejo-066b59222/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF8CC6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
