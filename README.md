@@ -59,8 +59,9 @@
   <img width="48%" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dloomz&layout=compact&hide_border=true&title_color=ff7dd0&text_color=ff8cc6&bg_color=fff5f8" />
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api/wakatime?username=dloomz&hide_border=true&title_color=ff7dd0&text_color=ff8cc6&icon_color=ff8cc6&bg_color=fff5f8" />
+       src="https://github-readme-stats.vercel.app/api/wakatime?username=@dloomz&hide_border=true&title_color=ff7dd0&text_color=ff8cc6&icon_color=ff8cc6&bg_color=fff5f8" />
 </p>
+
 
 ---
 
