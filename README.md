@@ -52,16 +52,9 @@
        src="https://github-readme-stats.vercel.app/api?username=dloomz&show_icons=true&hide_border=true&title_color=ff7dd0&icon_color=ff8cc6&text_color=ffb6c1&bg_color=fff5f8" />
   <img width="48%" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=dloomz&hide_border=true&ring=ff7dd0&fire=ff8cc6&currStreakLabel=ff7dd0&sideNums=ff8cc6&sideLabels=ff7dd0&background=fff5f8" />
-</p>
-
-<!-- 💕 PINK WAKATIME + LANGUAGES STATS 💕 -->
-<p align="center">
   <img width="48%" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dloomz&layout=compact&hide_border=true&title_color=ff7dd0&text_color=ff8cc6&bg_color=fff5f8" />
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api/wakatime?username=@dloomz&hide_border=true&title_color=ff7dd0&text_color=ff8cc6&icon_color=ff8cc6&bg_color=fff5f8" />
 </p>
-
 
 ---
 
@@ -76,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=FF7DD0&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🌸;Stay+creative,+stay+curious!+💖" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=FF7DD0&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🌸;Don't+forget,+to+connect!+💖" />
 </p>
