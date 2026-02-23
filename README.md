@@ -32,8 +32,8 @@
 
 | 🧩 Project | 💡 Description |
 |-------------|----------------|
-| 🎬 **Film Startup Tool** | Automates film project setup & pipeline initialization. |
-| 🪶 **USD Asset Manager** | Lightweight asset tracker for small productions — focused on simplicity & speed. |
+| 🎬 **Orion Tech** | A pipeline system for my 3rd year film. |
+| 🪶 **USD Asset Manager** | Lightweight asset tracker for small productions, focused on simplicity & speed. |
 
 ---
 
