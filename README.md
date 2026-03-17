@@ -27,7 +27,7 @@ I build tools to make using **Maya, Houdini, and Nuke** in a production easier.
 
 ### 🌷 Fun Stuff:
 * **Favorite colour:** Pink (obviously!)
-* **Favorite snack:** Plantain CHips!
+* **Favorite snack:** Plantain Chips!
 * **Focus:** Making production pipelines friendly and efficient.
 
 ---
